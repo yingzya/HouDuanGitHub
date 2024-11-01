@@ -110,9 +110,7 @@ public class Sj10 extends BaseEntity{
         this.wdcdjyjg = wdcdjyjg;
     }
 
-    public float getWdkdsjz() {
-        return wdkdsjz;
-    }
+    public float getWdkdsjz() {return wdkdsjz;}
 
     public void setWdkdsjz(float wdkdsjz) {
         this.wdkdsjz = wdkdsjz;
